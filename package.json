@@ -1,0 +1,17 @@
+{
+  "name": "fastifyGo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "fastify start server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.3.0",
+    "fastify-cli": "^2.2.0"
+  }
+}
